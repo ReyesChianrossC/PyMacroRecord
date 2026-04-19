@@ -16,4 +16,3 @@ src/**/__pycache__
 .DS_Store
 src/.DS_Store
 *.json
-src/scripts/
